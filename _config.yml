@@ -1,0 +1,54 @@
+layout_spectrum: 0.42677561606649345
+typography_spectrum: 0.4857358848608772
+color:
+  brandStrength: 0.4790823209738488
+  lightness: 0.6736372675463594
+  saturation: 0.14580488366194735
+  rhythmicContrast: 0.4669962105261955
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: v3
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c669296-f0e6-4bb2-9b33-809602a1b447.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c669296-f0e6-4bb2-9b33-809602a1b447.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+url: 'https://thegrid.ai/v-3'
+title: v3
+description: ''
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b499c4-57a2-42bd-b0f1-d9c1f91c7fb5.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc84d924-d5df-4bfe-8769-68512b4d75a8.png
