@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: note commerce top right... 3rd party or native ?
-dateModified: '2017-08-24T10:00:47.621Z'
-datePublished: '2017-08-24T10:00:48.968Z'
+dateModified: '2017-08-24T10:00:57.625Z'
+datePublished: '2017-08-24T10:00:57.794Z'
 title: Screenshots
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-24-screenshots.md
 starred: false
 datePublishedOriginal: '2017-08-24T10:00:48.968Z'
-sourcePath: _posts/2017-08-24-screenshots.md
 url: screenshots/index.html
 _type: Article
 
