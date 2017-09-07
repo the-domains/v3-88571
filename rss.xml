@@ -4,9 +4,9 @@
         <description><![CDATA[v3]]></description>
         <link>https://thegrid.ai/v-3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Sep 2017 15:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2017 15:34:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/v-3/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 Sep 2017 15:33:12 GMT</pubDate>
+        <pubDate>Thu, 07 Sep 2017 15:34:32 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzEEOwiAQQNG9p5jMniIhqE2Aq5gGMGIoEJiK3l6rq796X3fXYiXozRnkfIwx1TLaFAv_9dERwotCy0ti9K7B4J3WhFbzv7RwAO3jE1xaeje4K-bKlsmXkRnFNTSE6A1KKZW4nG5XoY5SzWKW533ztfYDSpAsGQ" height="200"></iframe>]]></description>
@@ -22,18 +22,18 @@
             <pubDate>Wed, 23 Aug 2017 18:40:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[is there a new logo?]]></title>
+            <description><![CDATA[<h1>is there a new logo?</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e02fd6ad-9195-4b42-9f01-1183eb668aed.png">]]></description>
+            <link>https://thegrid.ai/v-3/is-there-a-new-logo/index.html</link>
+            <guid isPermaLink="false">da64ad9f-4645-4113-9112-65cef011eeac</guid>
+            <pubDate>Thu, 07 Sep 2017 15:33:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Screenshots]]></title>
             <description><![CDATA[<h1>Screenshots</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/afdd1ea3-bf15-45be-b70c-5f38fae9c535.png" alt="note commerce top right... 3rd party or native ?">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bdfe407-9c5b-4562-80fe-738d79a28cf6.png" alt="new media layout..">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e993208f-e47a-4040-9e87-e7b7c5de304e.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45e1a182-ae89-4729-a80d-fdbe04c3809a.png" alt="a better way to list your current sites...">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60434105-e14d-4520-b1e2-436853177eb6.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3cc82b1-e833-4b77-a361-5356dec60123.png" alt="connections and followers ? ..a more social aspect of the grid community ?">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6966b2ad-d9ff-40de-93e1-1213890c1716.png" alt="enhancing the social aspect..">]]></description>
             <link>https://thegrid.ai/v-3/screenshots/index.html</link>
             <guid isPermaLink="false">28f85408-5145-4f07-b07f-536faef1c937</guid>
             <pubDate>Thu, 24 Aug 2017 10:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[is there a new logo?]]></title>
-            <description><![CDATA[<h1>is there a new logo?</h1>]]></description>
-            <link>https://thegrid.ai/v-3/is-there-a-new-logo/index.html</link>
-            <guid isPermaLink="false">da64ad9f-4645-4113-9112-65cef011eeac</guid>
-            <pubDate>Thu, 07 Sep 2017 15:33:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
