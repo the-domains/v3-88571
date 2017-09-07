@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-07T15:53:08.462Z'
-datePublished: '2017-09-07T15:53:09.018Z'
+dateModified: '2017-09-07T15:53:15.070Z'
+datePublished: '2017-09-07T15:53:15.480Z'
 title: is there a new logo?
 author: []
 publisher: {}
