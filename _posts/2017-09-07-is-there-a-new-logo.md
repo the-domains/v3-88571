@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-07T15:33:59.760Z'
-datePublished: '2017-09-07T15:34:00.094Z'
+dateModified: '2017-09-07T15:44:28.104Z'
+datePublished: '2017-09-07T15:44:28.275Z'
 title: is there a new logo?
 author: []
 publisher: {}
@@ -17,3 +17,7 @@ _type: Article
 ---
 # is there a new logo?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e02fd6ad-9195-4b42-9f01-1183eb668aed.png)
+
+---
+
+# no! ..just us messin' around..
